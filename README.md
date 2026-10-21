@@ -22,6 +22,10 @@
 6. [Khoob Doob (খুব ডুব) (2015)](#6-khoob-doob)
 7. [Singles & Standalone Releases](#7-singles)
 
+### 💿 Mixed Albums
+8. [Deep Nevar Age (দীপ নেভার আগে) (2015)](#8-deep-nevar-age-2015)
+9. [Vol 2](#9-vol-2)
+
 ---
 
 <a id="1-chaina-bhabish"></a>
@@ -314,6 +318,25 @@ A collection of standalone digital singles and collaborative masterpieces by Arn
 ### 💿 CD Ripper & Preservation Credit
 - **Preserved & Ripped by:** Bangla Flac Preservation Community / Exact Audio Copy (EAC Secure Rig)
 - **Source:** Original Physical CD / Cassette Lossless Audio Archive
+
+---
+
+<a id="8-deep-nevar-age-2015"></a>
+## 8. [Deep Nevar Age (দীপ নেভার আগে) (2015)](https://github.com/BD-Band-Archive/Mixed-Albums#32-deep-nevar-age-2015)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Arnob - Ghum Gari**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/02%20Ghum%20Gari.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/02%20Ghum%20Gari.flac?download=true)
+- [**Arnob - Jhor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/06%20Jhor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Deep%20Nevar%20Age%20%282015%29/06%20Jhor.flac?download=true)
+
+---
+
+<a id="9-vol-2"></a>
+## 9. [Vol 2](https://github.com/BD-Band-Archive/Mixed-Albums/tree/master/Jhalmuri%20%282007%29/Vol%202)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**ArnoB - Chad Dekhe Keu**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Jhalmuri%20%282007%29/Vol%202/08.%20ArnoB%20-%20Chad%20Dekhe%20Keu.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Jhalmuri%20%282007%29/Vol%202/08.%20ArnoB%20-%20Chad%20Dekhe%20Keu.flac?download=true)
 
 ---
 
