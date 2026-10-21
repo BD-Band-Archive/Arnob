@@ -1,0 +1,32 @@
+Album Name: Chaina Bhabish
+Album Type: Solo
+Release Year: 2005
+Genre: Pop
+Total Songs: 13
+Track List:
+01. Amar Hariye Jawa
+02. Chilte Rod
+03. Dhulo
+04. Chaina Bhabish
+05. She Je Boshe Ache
+06. Brishti Raate
+07. Konodin
+08. Shopno Rogi
+09. Bebak Bibagi
+10. Hariye Giyechi
+11. Jete Hobe
+12. Ekdin
+13. Chowachuyi
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 728 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.1 (2014-11-25)

@@ -1,0 +1,29 @@
+Album Name: Hok Kolorob
+Album Type: Solo
+Release Year: 2006
+Genre: Asian Music
+Total Songs: 10
+Track List:
+01. Bakse Bakse
+02. Tomar Jonno
+03. Hok Kolorob
+04. Tui Ki Janish Na
+05. Bhalobasha Tarpor
+06. Tor Jonno
+07. Somoy Kate
+08. Prokrito Jol
+09. Shobdo
+10. Tui Ki Janish Na (Reprise)
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 907 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.1 (2014-11-25)

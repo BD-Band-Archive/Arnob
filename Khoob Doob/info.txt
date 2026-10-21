@@ -1,0 +1,31 @@
+Album Name: Khoob Doob
+Album Type: Solo
+Release Year: 2015
+Genre: Alternative
+Total Songs: 12
+Track List:
+01. Chader Shiri
+02. Khoob Doob
+03. Jol Pore Pata Nore
+04. Mukhosher Arale
+05. Amar Akashe Brishti
+06. Esho Shyamolo
+07. Dhonodhanno
+08. Daake Ora
+09. Shomoy Shobuj Daini
+10. Totokkhone
+11. Tokhon Jonak Joley
+12. Ja Loy Tomar Mone
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 759 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.2.1 (2007-09-17)
